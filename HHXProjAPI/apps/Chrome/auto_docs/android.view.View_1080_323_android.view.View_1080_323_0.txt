@@ -1,0 +1,1 @@
+{'tap': 'The UI element navigates to the linked webpage or resource when tapped.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

@@ -1,0 +1,4 @@
+tap(9):::android.view.ViewGroup_914_195_android.widget.TextView_173_195_Chrome_2
+tap(1):::android.widget.RelativeLayout_617_168_com.android.chrome.id_search_box_text_0
+text(19:sep:"bing.com"):::com.android.chrome.id_location_bar_com.android.chrome.id_url_bar_1
+stop

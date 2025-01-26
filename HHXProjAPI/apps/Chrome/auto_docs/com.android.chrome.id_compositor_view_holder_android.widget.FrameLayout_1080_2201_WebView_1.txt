@@ -1,0 +1,1 @@
+{'tap': 'The UI element redirects the user to a page providing information about Amazon Prime membership and its benefits.  ', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

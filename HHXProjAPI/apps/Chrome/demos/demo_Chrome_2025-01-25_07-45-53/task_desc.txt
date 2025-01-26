@@ -1,0 +1,1 @@
+open chrome and enter bing.com in the url

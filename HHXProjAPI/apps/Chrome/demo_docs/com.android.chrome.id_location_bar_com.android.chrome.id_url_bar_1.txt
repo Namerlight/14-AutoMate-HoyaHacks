@@ -1,0 +1,1 @@
+{'tap': '', 'text': 'The UI element is used for the user to input a URL or search query to navigate to a specific webpage or perform a search.', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

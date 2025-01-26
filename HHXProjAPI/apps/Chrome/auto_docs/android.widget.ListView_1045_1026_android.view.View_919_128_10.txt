@@ -1,0 +1,1 @@
+{'tap': 'The UI element allows users to select a suggested search query and proceed to the corresponding search results.  ', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

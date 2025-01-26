@@ -1,0 +1,1 @@
+{'tap': 'The UI element navigates to the main Google search page or resets the current interface to the default Google homepage.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

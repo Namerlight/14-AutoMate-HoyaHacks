@@ -1,0 +1,5 @@
+tap(7):::android.view.ViewGroup_1080_2138_android.widget.TextView_216_236_Chrome_4
+tap(1):::android.widget.RelativeLayout_617_168_com.android.chrome.id_search_box_text_0
+text(22:sep:""www.amazon.com""):::com.android.chrome.id_location_bar_com.android.chrome.id_url_bar_1
+tap(6):::com.android.chrome.id_omnibox_suggestions_dropdown_android.view.ViewGroup_1038_147_0
+stop

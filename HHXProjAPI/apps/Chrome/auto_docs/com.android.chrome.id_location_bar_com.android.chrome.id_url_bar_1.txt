@@ -1,0 +1,1 @@
+{'tap': 'The UI element opens the address bar, enabling the user to input or modify a URL for navigation.  ', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

@@ -1,0 +1,1 @@
+{'tap': 'The UI element opens the Google Chrome browser, allowing users to access the internet.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

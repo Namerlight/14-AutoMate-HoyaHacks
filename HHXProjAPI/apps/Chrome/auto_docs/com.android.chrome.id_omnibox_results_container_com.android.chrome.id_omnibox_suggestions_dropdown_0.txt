@@ -1,0 +1,1 @@
+{'tap': 'The UI element navigates to a specific URL or webpage associated with the displayed text.  ', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

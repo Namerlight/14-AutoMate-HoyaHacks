@@ -1,0 +1,1 @@
+{'tap': 'Tapping the UI element allows the user to input a URL or search query, opening a text input field for further interaction.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

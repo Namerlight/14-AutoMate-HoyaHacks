@@ -1,0 +1,1 @@
+{'tap': 'Tapping the UI element opens a web browser application, allowing the user to browse the internet or enter a URL.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

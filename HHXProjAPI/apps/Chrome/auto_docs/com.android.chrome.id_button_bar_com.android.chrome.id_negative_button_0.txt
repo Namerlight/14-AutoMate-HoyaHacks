@@ -1,0 +1,1 @@
+{'tap': 'The UI element dismisses the Chrome notifications pop-up, allowing the user to continue browsing without enabling notifications.  ', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

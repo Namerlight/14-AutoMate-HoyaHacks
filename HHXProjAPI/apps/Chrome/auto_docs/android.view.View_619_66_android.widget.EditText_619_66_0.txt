@@ -1,0 +1,1 @@
+{'tap': 'The UI element updates the list of trending searches displayed on the screen.  ', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

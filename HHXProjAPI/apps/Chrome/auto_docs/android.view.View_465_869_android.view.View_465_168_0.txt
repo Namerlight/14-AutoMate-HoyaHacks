@@ -1,0 +1,1 @@
+{'tap': 'The UI element allows the user to continue browsing on the Amazon.com website instead of being redirected to a regional version.  ', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

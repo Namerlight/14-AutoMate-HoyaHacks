@@ -1,0 +1,1 @@
+{'tap': 'The UI element appends additional text or suggestions to the search query in the search bar.  ', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

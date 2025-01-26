@@ -1,0 +1,1 @@
+{'tap': 'Tapping the UI element navigates the user to the specified website in the browser.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}
